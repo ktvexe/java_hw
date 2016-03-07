@@ -1,4 +1,10 @@
-
+/*java homework
+*
+*read <tag> key word to search XML
+*
+*@author: LG Liu
+*@link:https://github.com/ktvexe/java_hw/tree/master/Hw1
+*/
 public class Week1_hw {
 
 	public static void main(String[] args) {
